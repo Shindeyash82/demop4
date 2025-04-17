@@ -1,11 +1,12 @@
 {
   "name": "node-demo-app",
   "version": "1.0.0",
+  "description": "A simple Node.js app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {
-    
-  }
+  "author": "Yash Vikas Shinde",
+  "license": "ISC",
+  "dependencies": {}
 }
